@@ -1,0 +1,8 @@
+Customer Churn Prediction - Model Comparison
+============================================
+
+              Model Accuracy Precision Recall F1-Score ROC-AUC
+Logistic Regression   0.8055    0.6572 0.5588   0.6040  0.8421
+      Random Forest   0.7559    0.5268 0.7888   0.6317  0.8407
+
+Best Model: Logistic Regression (Saved as best_model.pkl)
